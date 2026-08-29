@@ -1,5 +1,7 @@
 # Interactive Quiz Web Application
 
+ https://sheetaltech.github.io/interactive-quiz-web-app/
+
 A beginner-friendly interactive quiz application built using HTML, CSS, and Vanilla JavaScript.
 
 ## Technologies Used
